@@ -1,0 +1,27 @@
+{
+  "name": "felix.moe",
+  "version": "1.0.0",
+  "description": "Web site of felix tan!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cellularhacker/felix.moe.git"
+  },
+  "keywords": [
+    "felix",
+    "node.js",
+    "express"
+  ],
+  "author": "Cellularhacker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Cellularhacker/felix.moe/issues"
+  },
+  "homepage": "https://github.com/Cellularhacker/felix.moe#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
