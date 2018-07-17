@@ -1,0 +1,42 @@
+#felixtan_moe{
+    margin-bottom: 100px;
+}
+
+
+.site_symbol{
+    color: #73C2FB;
+}
+.donate_title{
+    font-style: initial;
+    font-size: 2em;
+}
+.donate_coin_name{
+    width: 60px;
+    height: 30px;
+    float: left;
+}
+.donate_wallet_container{
+    height: 30px;
+    float: left;
+}
+.donate_wallet{
+    height: 30px;
+    float: left;
+    font-style: initial;
+    color: #73C2FB;
+}
+
+.donate_wallet_container button{
+    float: left;
+    height: 30x;
+    width: 50px;
+    border-radius: 8px;
+    font-family: 'Oswald', sans-serif;
+    cursor: pointer;
+    background-color: wheat;
+    margin-left: 10px;
+}
+
+li{
+    height: 30px;
+}
