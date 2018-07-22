@@ -6,6 +6,12 @@
 .site_symbol{
     background-color: #73C2FB;
 }
+
+.namuwiki-style{
+    background-color:#108174;
+    color:white;
+}
+
 .donate_title{
     font-style: initial;
     font-size: 2em;
